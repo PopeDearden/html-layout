@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.toprow {
+    height: 100px;
+    width: 100%;
+    background: lightgray;
+    padding:25px;
+    box-sizing:border-box;
+}
+.leftsquare {
+    height: 50px;
+    width:50px;
+    background: #4A90E2;
+}
+.textcontainer {
+    width: 0 auto;
+    height: 80px;
+    background: white;
+    padding:50px;
+
+}
+.textbox {
+
+}
+.row1 {
+width: 0 auto;
+height: 100px;
+background: #4A90E2;
+}
+.row2 {
+    width: 0 auto;
+    height: 100px;
+    background: rgb(74, 226, 193);
+}
+.row3 {
+    width: 0 auto;
+    height: 100px;
+    background: rgb(147, 226, 74);
+}
+.row4{
+    width: 0 auto;
+    height: 100px;
+    background: rgb(198, 226, 74);
+}
